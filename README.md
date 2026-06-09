@@ -3,6 +3,9 @@
 # Backend Hosted on render before uising the page open this 
 https://price-predictor-sl4k.onrender.com 
 
+# Then this 
+https://price-predictor-five.vercel.app/predict
+
 # 🚗 Car Price Predictor  
 
 A machine learning project to predict car prices with precision and insight.  
