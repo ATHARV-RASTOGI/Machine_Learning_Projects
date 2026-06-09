@@ -42,5 +42,9 @@ In an elegant orchestration of data and code, this project embraces the subtleti
 
 ---
 
+## Backend Hosted on render before uising the page open this 
+https://price-predictor-sl4k.onrender.com 
+
+
 ## 🗂 Project Structure  
 
